@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "關於我"
+    url: /about/
+  - title: "課程"
+    url: /courses/
+  # - title: "泰文轉羅馬拼音"
+  #   url: /romanize-tool/
