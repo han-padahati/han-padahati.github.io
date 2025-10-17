@@ -87,9 +87,45 @@ body {
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
+    position: relative;
+    display: inline-block;
   }
 
+  h2::after {
+    /* 1. 內容為空 */
+    content: ''; 
+    /* 2. 設置絕對定位 */
+    position: absolute;
+    
+    /* 3. 設置框框的顏色 */
+    background-color: #F8DE7E; /* 醒目的黃色實心框框 */
+    
+    /* === 修改 1: 調整框框大小為 100%，剛好貼合文字區域 === */
+    width: 100%;  /* 寬度剛好等於文字區域 */
+    height: 20%; /* 高度剛好等於文字區域 */
+    
+    /* === 修改 2: 使用 top/left 實現偏移，並移除 transform === */
+    /* 將框框整體向右下角移動 8px，達成偏移效果 */
+    top: 20px; 
+    left: 10px; 
+    
+    /* === 修改 3: 設定 z-index: -1，讓框框絕對在文字的背後（解決文字被蓋住的問題） */
+    z-index: -1; 
+    
+    /* 7. 讓框框的邊角稍微圓潤 */
+   
+    
+    /* 讓定位從文字元素的左上角開始 */
+    /* top: 0; 已經改為 8px */
+    /* left: 0; 已經改為 8px */
+    
+    /* 確保這個框框是不可點擊的 */
+    pointer-events: none;
+}
+
 	h1, h2, h3, h4, h5, h6 {
+    color: #000;
+
 		.header-link {
 			position: relative;
 			inset-inline-start: 0.5em;
@@ -106,10 +142,15 @@ body {
 		}
 	}
 
+  h2 {
+    color: $thaitea;
+
+  }
   p,
   li,
   dl {
-    font-size: 1em;
+    font-size: 1.2em;
+    line-height: 1.5;
   }
 
   /* paragraph indents */

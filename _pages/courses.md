@@ -5,7 +5,7 @@ layout: splash
 feature_row:
   - image_path: "/assets/images/course_movie_bg.png"
     title: "泰國電影字幕課"
-    excerpt: "透過戲劇台詞學習最道地和最實用的口語泰語，泰語世界的喜怒哀樂與生老病死一次滿足。"
+    excerpt: "透過戲劇學習最道地和最實用的口語泰語，泰語世界的喜怒哀樂與生老病死一次滿足。"
     url: "/course-movie/"
     btn_label: "課程詳情"
     btn_class: "btn--inverse"

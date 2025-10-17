@@ -37,7 +37,7 @@ feature_row2:
 
 
 ![](/assets/images/course_schedule.png){: .align-center }
-<br>
+<!-- <br> -->
 <h1>報名請點此<a href="https://forms.gle/XUsqGxq499h89d1H7" target="_blank">連結</a></h1>
 {: .text-center}
 <br>
@@ -47,7 +47,7 @@ feature_row2:
 
 <!-- <img src="/assets/images/教學特色.png" class="align-center" width="45%" /> -->
 <!-- {: .text-center} -->
-<br>
+<!-- <br> -->
 <h1>教學特色</h1> {: .text-center} 
 
 {% include feature_row %}

@@ -50,6 +50,7 @@
   text-align: center;
   overflow: hidden;
   text-overflow: ellipsis;
+  color: $thaitea;
 
   a[rel="permalink"]::before {
     content: '';

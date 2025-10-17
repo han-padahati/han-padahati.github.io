@@ -138,14 +138,14 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "臉書粉專"
+    - label: "我在泰國慢你一個鐘頭"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/2014thailand2015/"
-    - label: "IG"
+    - label: "thai.1hr.behind"
       icon: "fab fa-fw fa-instagram"
       url: "http://instagram.com/thai.1hr.behind"
-    - label: "Threads"
-      icon: "fab fa-fw fa-thread"
+    - label: "thai.1hr.behind"
+      icon: "fab fa-fw fa-threads"
       url: "https://www.threads.com/@thai.1hr.behind"
   since: "2014"
 

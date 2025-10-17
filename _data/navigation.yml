@@ -4,5 +4,7 @@ main:
     url: /about/
   - title: "課程"
     url: /courses/
+  - title: "學習工具"
+    url: /tools/
   # - title: "泰文轉羅馬拼音"
   #   url: /romanize-tool/
