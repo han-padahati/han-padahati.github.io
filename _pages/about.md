@@ -4,7 +4,7 @@ layout: single
 author_profile: false
 ---
 
-
+![image-center](/assets/images/photo.png){: .align-center}
 
 台灣大學語言學研究所碩士畢，大學期間曾至朱拉隆功大學文學院交換學生一年，修畢朱拉隆功大學Intensive Thai Program最高級Thai 9課程。目前從事泰語教學和泰中口筆譯，經營臉書專頁[我在泰國慢你一個鐘頭](https://www.facebook.com/2014thailand2015/)，並於線上開設家教班與團體班，基礎入門到專業主題課程都有開設。以下是我的教學與翻譯經歷，若有泰文教學/企業培訓/翻譯案/口譯案的需求，歡迎來信聯絡：han.padahati@gmail.com
 
