@@ -9,7 +9,8 @@ layout: single
 <h3>泰語字母拼讀</h3>
 <ul>
   <li><a href="/tools/mid-consonants/">中子音與母音發音：互動練習</a></li>
-  <li><a href="/tools/mid-consonants-quiz/">中子音與母音發音：問答挑戰</a></li>
+  <li><a href="/tools/mid-consonants-quiz/">中子音與母音發音：問答挑戰（聽音認字）</a></li>
+  <li><a href="/tools/mid-consonants-quiz-2/">中子音與母音發音：問答挑戰（看字念發音）</a></li>
   <li><a href="/tools/tone-markers/">聲調符號</a></li>
 
 </ul>
