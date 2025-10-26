@@ -6,6 +6,13 @@ layout: single
 
 <h1>學習工具</h1>{: .text-center}
 
+<h3>泰語子音</h3>
+<ul>
+  <li><a href="/tools/9-mid-consonants/">9個中子音：發音與筆順</a></li>
+  <li><a href="/tools/7-low-consonants/">插播7個低子音：發音與筆順</a></li>
+</ul>
+
+
 <h3>泰語字母拼讀</h3>
 <ul>
   <li><a href="/tools/mid-consonants/">中子音與母音發音：互動練習</a></li>
