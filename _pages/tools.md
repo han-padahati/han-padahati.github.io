@@ -10,6 +10,7 @@ layout: single
 <ul>
   <li><a href="/tools/9-mid-consonants/">9個中子音：發音與筆順</a></li>
   <li><a href="/tools/7-low-consonants/">插播7個低子音：發音與筆順</a></li>
+  <li><a href="/tools/10-high-consonants/">10個高子音：發音與筆順</a></li>
 </ul>
 
 
@@ -19,6 +20,7 @@ layout: single
   <li><a href="/tools/mid-consonants-quiz/">中子音與母音發音：問答挑戰（聽音認字）</a></li>
   <li><a href="/tools/mid-consonants-quiz-2/">中子音與母音發音：問答挑戰（看字念發音）</a></li>
   <li><a href="/tools/tone-markers/">聲調符號</a></li>
+  <li><a href="/tools/mid-consonants-all-vowels-quiz/">中子音與所有母音和尾音：問答挑戰（看字念發音）</a></li>
 
 </ul>
 
