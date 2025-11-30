@@ -23,7 +23,7 @@ layout: single
   <li><a href="/tools/syllable-spelling-quiz/">音節拼讀練習</a></li>
   <!-- <li><a href="/tools/mid-consonants-quiz-2/">中子音與母音發音：問答挑戰（看字念發音）</a></li> -->
   <li><a href="/tools/tone-markers/">聲調符號</a></li>
-
+  <li><a href="/tools/consonant-category-quiz/">子音類別測驗</a></li>
   <!-- <li><a href="/tools/mid-consonants-all-vowels-quiz/">中子音與所有母音和尾音：問答挑戰（看字念發音）</a></li> -->
 
 </ul>
