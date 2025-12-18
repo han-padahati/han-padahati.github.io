@@ -54,3 +54,18 @@ feature_row2:
 
 {% include feature_row id="feature_row2" %}
 <!-- {% include feature_row id="feature_row2" type="" %} -->
+
+<br>
+<img src="/assets/images/seperator.png" class="align-center" width="40%" />
+<h1>{{ site.data.ui-text[site.locale].recent_posts | default: "最新文章" }}</h1>
+{: .text-center}
+
+<p>&nbsp;</p>
+
+{% assign posts = site.posts | where_exp: "post", "post.hidden != true" | limit: 5 %}
+{% assign entries_layout = 'grid' %}
+<div class="entries-{{ entries_layout }}">
+  {% for post in posts %}
+    {% include archive-single.html type=entries_layout %}
+  {% endfor %}
+</div>

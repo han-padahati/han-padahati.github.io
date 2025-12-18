@@ -168,7 +168,7 @@
 
   @include breakpoint($medium) {
     margin-inline: 0; /* override margin*/
-    width: span(3 of 12);
+    width: span(4 of 12);
 
     &:nth-child(2n + 1) {
       clear: none;
@@ -227,7 +227,7 @@
     }
 
     @include breakpoint($medium) {
-      max-height: 120px;
+      max-height: 200px;
     }
   }
 }
